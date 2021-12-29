@@ -19,3 +19,8 @@ senpai-angry
 spirit
 bf-pixel-opponent
 pico-player
+hank
+hank-scared
+bfsigndeath
+gf-handsup
+acceleranttricky
